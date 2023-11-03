@@ -5,7 +5,9 @@
 ## Description
 
 I Changed all HTML div  to semantics
+
 I re-grouped all CSS with the same attributes
+
 Re-organized from H1 to H4
 
 ## Mock-Up
